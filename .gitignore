@@ -1,0 +1,9 @@
+# Données personnelles Instagram
+your_instagram_activity/
+*.json
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
